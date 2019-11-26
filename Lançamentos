@@ -1,7 +1,18 @@
 <item>
 <title>[B][COLOR red]It - Capítulo Dois - [COLOR red] (2019) [/COLOR] - [COLOR red] (HD) [/COLOR] - DUBLADO[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1kJYM-8Fx9pgqmpEnLDR-gdH8nu4gofWx/view?usp=drivesdk</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1kJYM-8Fx9pgqmpEnLDR-gdH8nu4gofWx/view$$lsname=[COLOR red]HD[/COLOR] - LINK 1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1kJYM-8Fx9pgqmpEnLDR-gdH8nu4gofWx/view$$lsname=[COLOR red]HD[/COLOR] - LINK 1</link>?usp=drivesdk</link>
 <thumbnail>https://pbs.twimg.com/media/EDs-IMTXoAE63jy.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+
+
+<item>
+<title>[B][COLOR red]Quando as luzes se apagam - [COLOR red] (2019) [/COLOR] - [COLOR red] (HD) [/COLOR] - DUBLADO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1v7UVgrSuXQQqn8aKFkmd2Ww8b0tJ4yKh/view?usp=drivesdk</link>
+<thumbnail>http://www.sobrefavoritos.com.br/wp-content/uploads/2016/08/Quando-as-Luzes-se-Apagam-assombra-brilheteria-blog-favoritos-800x365.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
