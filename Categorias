@@ -7,7 +7,24 @@
 <info>
 
 
-[COLOR white]Lançamentos 2019[/COLOR]</info>
+[COLOR white]Os melhores filmes e lançamentos[/COLOR]</info>
+</channel>
+</channels>
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[COLOR white]Séries[/COLOR]</name>
+<thumbnail>https://ia801506.us.archive.org/19/items/series_201911/S%C3%A9ries.png</thumbnail>
+<externallink>https://</externallink>
+<fanart></fanart>
+<info>
+
+
+[COLOR white]As melhores séries e lançamentos[/COLOR]</info>
 </channel>
 </channels>
 
